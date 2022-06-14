@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h3 align="center">⚡ Tech Stack ⚡</h3>
+<div align="center">
 <p id="front" align="center">
   
   
@@ -34,10 +35,7 @@ Here are some ideas to get you started:
 </p>
 
 <p id="back" align="center">
-  
-  
-  
-  
+
   
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
   ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -48,4 +46,4 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoYuKang)](https://github.com/anuraghazra/github-readme-stats)
 
-   
+   </div>
