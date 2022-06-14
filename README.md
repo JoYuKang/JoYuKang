@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=250&section=header&text=Jo_Yu_Kang&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=250&section=header&text=Jo%20Yu%20Kang&fontSize=90)
 
 <!--**JoYuKang/JoYuKang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,8 +19,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ykang9533)](https://solved.ac/ykang9533) 
+  
+</div>
 <h3 align="center">⚡ Tech Stack ⚡</h3>
 <div align="center">
+  
+  <p>  
+  
+
+  
+</p>
+  
 <p id="front" align="center">
   
   
@@ -43,7 +55,14 @@ Here are some ideas to get you started:
   ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
   
 </p>
+<p> 
+  
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJoYuKang&count_bg=%2379C83D&title_bg=%23555555&icon=atari.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoYuKang)](https://github.com/anuraghazra/github-readme-stats) 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoYuKang)](https://github.com/anuraghazra/github-readme-stats)
+  </p>
 
+  
+  
    </div>
